@@ -15,10 +15,6 @@ A smart domain name finder that leverages AI to suggest and check availability o
 - 📱 **Responsive Design** - Works on desktop and mobile devices
 - 🧩 **Modular Architecture** - Clean separation of concerns for maintainability
 
-## Demo
-
-[View Live Demo](https://your-demo-url.com) (Replace with your demo link when available)
-
 ## Installation
 
 ### Prerequisites
@@ -32,8 +28,8 @@ A smart domain name finder that leverages AI to suggest and check availability o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/domain-finder.git
-   cd domain-finder/domain-finder-api
+   git clone https://github.com/talkwaqar/ai-domain-suggester.git
+   cd ai-domain-suggester
    ```
 
 2. Install dependencies:
